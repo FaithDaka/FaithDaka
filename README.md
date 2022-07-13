@@ -1,5 +1,5 @@
 ### <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Meet Faith"> 
-## Meet Faith
+## Hi, I'm Faith
 
 
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="30" align="left" alt="javacript">
