@@ -12,8 +12,8 @@
 </br>
 <br/>
 
-- 🌱 I am a software developer :nerd_face: with a niche in frontend engineering.
-- 💻 I particularly use Javascript frameworks and libraries for development.
+- 🌱 I am a software developer with a niche in frontend engineering.
+- 💻 I particularly use Javascript frameworks and libraries for development. Stack: Javascript/Python
 - 🥇 I enjoy creating pixel-perfect implementations and working in collaborative environments.
 - 📚 I am a data-science enthusiast.
 - 🦾 Pronouns: She/programmer
@@ -24,4 +24,4 @@ Twitter: https://twitter.com/busigufaithd <br/>
 LinkedIn: https://www.linkedin.com/in/busigu-faith-daka-a444765a
 
 ## Github Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FaithDaka&hide=issues,contribs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FaithDaka&hide=issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
