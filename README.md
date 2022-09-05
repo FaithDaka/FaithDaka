@@ -43,7 +43,7 @@
 
 #
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=FaithDaka&theme=juicyfresh&no-bg=true" /></br> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FaithDaka&theme=tokyonight" alt="mystreak" align="right" height="120px"/></br>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaithDaka&theme=tokyonight" alt="mystreak" align="right" height="120px"/></br> -->
 [![Faith's github stats](https://github-readme-stats.vercel.app/api?username=FaithDaka&hide=issues&show_icons=true&theme=radical)](https://github.com/FaithDaka/github-readme-stats)
 
 
