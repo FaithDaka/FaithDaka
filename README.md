@@ -11,6 +11,7 @@
 
 ##
 ### Languages & Tools:
+</br><br/>
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="30" align="left" alt="javacript">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" align="left" alt="typescript"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" align="left" alt="nodejs"/>
@@ -42,7 +43,7 @@
 
 #
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=FaithDaka&theme=juicyfresh&no-bg=true" /></br> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FaithDaka&theme=tokyonight" alt="mystreak" align="right"/></br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FaithDaka&theme=tokyonight" alt="mystreak" align="right" height="170px"/></br>
 [![Faith's github stats](https://github-readme-stats.vercel.app/api?username=FaithDaka&hide=issues&show_icons=true&theme=radical)](https://github.com/FaithDaka/github-readme-stats)
 
 
