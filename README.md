@@ -11,26 +11,25 @@
 </br><br/>
 
 ## Skill Kit (My Tools):
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" align="left" alt="figma"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="35" align="left" alt="figma"/>
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="30" align="left" alt="javacript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" align="left" alt="typescript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35" align="left" alt="typescript"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" align="left" alt="nodejs"/>
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="50" align="left" alt="python">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="35" align="left" alt="python">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="30" align="left" alt="graphql"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="50" align="left" alt="angular"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="35" align="left" alt="angular"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="30" align="left" alt="nextjs"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" align="left" alt="react"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="35" align="left" alt="react"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="30" align="left" alt="tailwind"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="60" align="left" alt="sass"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" align="left" alt="sass"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30" align="left" alt="bootstrap">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="50" align="left" alt="git">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="35" align="left" alt="git">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" align="left" alt="linux"/>
-<img align="left" alt="Visual Studio Code" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-original.svg" align="left" alt="Behance" width="30px"/> 
 </br><br/>
 
 #
-
 ### My Design Portfolio:
 [B Design Hub](https://bdesignhub.com/)
 
