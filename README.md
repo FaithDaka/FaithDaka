@@ -42,6 +42,7 @@
 [Via LinkedIn](https://www.linkedin.com/in/busigu-faith-daka) <br/>
 
 #
+#### PS: My GitHub contribution graph doesn't reflect my daily coding. I've worked with enterprises where my activity lives privately in company repos.
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=FaithDaka&theme=juicyfresh&no-bg=true" /></br>
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaithDaka&theme=tokyonight" alt="mystreak" align="right" height="120px"/></br> -->
 <!-- [![Faith's github stats](https://github-readme-stats.vercel.app/api?username=FaithDaka&hide=issues&show_icons=true&theme=radical)](https://github.com/FaithDaka/github-readme-stats) -->
